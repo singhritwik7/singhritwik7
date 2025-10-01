@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ritwik Singh
 
-🎓 **Electronics & Communication Engineering Student**  
-💡 **Machine Learning & IoT Enthusiast**  
+🎓 **Computer Science Engineering Student**  
+💡 **Machine Learning & Frontend Ethusiast**  
 🚀 Passionate about **Data Analysis, Healthcare AI, and Automation**
 
 ---
