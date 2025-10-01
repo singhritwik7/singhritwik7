@@ -24,15 +24,13 @@ Built with **Python, Pandas, and Logistic Regression** — includes reports, dat
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhritwik7&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** singhritwik7@gmail.com  
+📧 **Email:** singhritwik.2003@gmail.com 
 🌐 *More social links coming soon...*
 
 ---
